@@ -2,19 +2,23 @@
 Console.Title = "Ramen";
 Console.ForegroundColor = ConsoleColor.Green;
 
-int num01;
-int num02;
+double num01;
+double num02;
+double num03;
 
 Console.WriteLine("input a number: ");
-
-num01 = Convert.ToInt32( Console.ReadLine() );
+num01 = Convert.ToDouble( Console.ReadLine() );
 
 Console.WriteLine("input a second number: ");
+num02 = Convert.ToDouble( Console.ReadLine() );
 
-num02 = Convert.ToInt32( Console.ReadLine() );
+Console.WriteLine("input a third number: ");
+num03 = Convert.ToDouble( Console.ReadLine() );
 
-int result = num01 * num02;
+double result = (num01 + num02 + num03) / 3;
 
 Console.WriteLine("The result is " + result);
 
 Console.ReadKey();
+
+
