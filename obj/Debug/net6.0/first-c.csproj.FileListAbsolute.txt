@@ -1,0 +1,15 @@
+C:\Users\Justin\Desktop\first-c\bin\Debug\net6.0\first-c.exe
+C:\Users\Justin\Desktop\first-c\bin\Debug\net6.0\first-c.deps.json
+C:\Users\Justin\Desktop\first-c\bin\Debug\net6.0\first-c.runtimeconfig.json
+C:\Users\Justin\Desktop\first-c\bin\Debug\net6.0\first-c.dll
+C:\Users\Justin\Desktop\first-c\bin\Debug\net6.0\first-c.pdb
+C:\Users\Justin\Desktop\first-c\obj\Debug\net6.0\first-c.csproj.AssemblyReference.cache
+C:\Users\Justin\Desktop\first-c\obj\Debug\net6.0\first-c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin\Desktop\first-c\obj\Debug\net6.0\first-c.AssemblyInfoInputs.cache
+C:\Users\Justin\Desktop\first-c\obj\Debug\net6.0\first-c.AssemblyInfo.cs
+C:\Users\Justin\Desktop\first-c\obj\Debug\net6.0\first-c.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Desktop\first-c\obj\Debug\net6.0\first-c.dll
+C:\Users\Justin\Desktop\first-c\obj\Debug\net6.0\refint\first-c.dll
+C:\Users\Justin\Desktop\first-c\obj\Debug\net6.0\first-c.pdb
+C:\Users\Justin\Desktop\first-c\obj\Debug\net6.0\first-c.genruntimeconfig.cache
+C:\Users\Justin\Desktop\first-c\obj\Debug\net6.0\ref\first-c.dll
