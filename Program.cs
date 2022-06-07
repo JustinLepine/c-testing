@@ -4,10 +4,12 @@ Console.Title = "Ramen";
 Console.ForegroundColor = ConsoleColor.Green;
 
 Console.WriteLine("Hello whats your name?");
-Console.ReadLine();
-Console.WriteLine("My Name is Takumi");
+string userName = Console.ReadLine();
+Console.WriteLine("Hello " + userName + ". My Name is Takumi");
 Console.WriteLine("Whats your favourite car?");
-Console.ReadLine();
-Console.WriteLine("Nice that's sick");
+string userCar = Console.ReadLine();
+Console.WriteLine("Nice that's sick! How much horsepower does that " + userCar + " have");
+string userHp = Console.ReadLine();
+Console.WriteLine(userName + " your " + userCar + " with " + userHp + " is a solid car");
 
 Console.ReadKey();
