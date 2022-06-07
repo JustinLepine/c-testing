@@ -2,23 +2,21 @@
 Console.Title = "Ramen";
 Console.ForegroundColor = ConsoleColor.Green;
 
-double num01;
-double num02;
-double num03;
+Random numberGen = new Random();
 
-Console.WriteLine("input a number: ");
-num01 = Convert.ToDouble( Console.ReadLine() );
+for( int i = 0; i < 10; i++ ) {
+    Console.WriteLine(i);
+}
 
-Console.WriteLine("input a second number: ");
-num02 = Convert.ToDouble( Console.ReadLine() );
+int roll = 0;
+int attempts = 0;
 
-Console.WriteLine("input a third number: ");
-num03 = Convert.ToDouble( Console.ReadLine() );
+while(roll != 6) {
+    roll = numberGen.Next(1, 7);
+    Console.WriteLine("You rolled: " + roll);
+    attempts++;
+}
 
-double result = (num01 + num02 + num03) / 3;
-
-Console.WriteLine("The result is " + result);
+Console.WriteLine("It took you " + attempts + " to roll a 6.");
 
 Console.ReadKey();
-
-
